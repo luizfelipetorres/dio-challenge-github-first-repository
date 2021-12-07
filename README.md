@@ -1,2 +1,3 @@
 # dio-challenge-github-first-repository
-Desafio da plataforma DIO sobre repositórios no Git/GIthub
+- Desafio da plataforma DIO sobre repositórios no Git/GIthub
+- Feito no Bootcamp Decola Tech 2ª Edição (Avanade) ​:airplane:
