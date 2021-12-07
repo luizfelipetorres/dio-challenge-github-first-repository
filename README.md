@@ -9,7 +9,10 @@
 - Organizar seus respectivos certificados;
 - Conforme novos bootcamps forem feitos, também serão adicionados aqui;
 
-**Bootcamps adicionados:**
+**Bootcamps concluídos:**
 
-- Become Remote;
-- Decola Tech 2ª Edição (Avanade).
+- [x] Become Remote;
+
+**Bootcamps em andamento:**
+
+- [ ] Decola Tech 2ª Edição (Avanade);
